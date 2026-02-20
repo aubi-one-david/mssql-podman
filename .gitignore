@@ -1,0 +1,8 @@
+# MSSQL data volumes
+volumes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
